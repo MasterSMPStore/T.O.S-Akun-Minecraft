@@ -18,7 +18,8 @@ yang tercantum dalam ToS ini.
 ## TUTORIAL
 
 - Pergi ke [Minecraft Login Page](https://www.minecraft.net/en-us/login)
-- Ganti Nickname di [Sini](https://www.minecraft.net/en-us/msaprofile/mygames/editprofile)
+- Ganti Nickname Java di [Sini](https://www.minecraft.net/en-us/msaprofile/mygames/editprofile)
+- Ganti Nickname Bedrock di [Sini](https://social.xbox.com/changegamertag)
 - Tunggu Hingga 14 hari sebelum mengganti Email & Password
 - Setelah 14 Hari, Pergi ke [Microsoft Login page](https://login.microsoftonline.com/)
 - Lalu pergi ke [Microsoft Settings](https://account.live.com/names/manage?mkt=id-ID&refd=account.microsoft.com&refp=profile)
