@@ -24,7 +24,7 @@ yang tercantum dalam ToS ini.
 - Lalu pergi ke [Microsoft Settings](https://account.live.com/names/manage?mkt=id-ID&refd=account.microsoft.com&refp=profile)
 - Atau bisa langsung ke [Ganti Email Page](https://account.live.com/AddAssocId)
 - Lalu pergi ke [Ganti Password Page](https://account.live.com/password/Change)
-- Selesai! Harap Patuhi T.O.S ([Terms Of Service]())
+- Selesai! Harap Patuhi T.O.S ([Terms Of Service](#terms-of-service))
 
 ## 
 
