@@ -14,7 +14,7 @@ yang tercantum dalam ToS ini.
 - Anda bertanggung jawab penuh atas penggunaan akun Minecraft yang telah Anda beli.
 - Anda bertanggung jawab atas penggunaan akun dan segala konsekuensinya.
 - Dalam 14 hari, Dilarang mengubah informasi akun Seperti Email Dan Password (Sebagai Garansi).
-- mengubah informasi akun sebelum 14 hari, maka Garansi Hangus.
+- mengubah informasi akun sebelum 14 hari, maka Garansi Hangus
 ## TUTORIAL
 
 - Pergi ke [Minecraft Login Page](https://www.minecraft.net/en-us/login)
